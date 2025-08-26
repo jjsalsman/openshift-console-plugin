@@ -1,7 +1,7 @@
 {
-  "name": "console-plugin-template",
+  "name": "salsman-console-plugin",
   "version": "0.0.1",
-  "description": "Template project for OpenShift Console plugins",
+  "description": "Project for OpenShift Console plugins",
   "private": true,
   "license": "Apache-2.0",
   "repository": {
